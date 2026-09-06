@@ -1,4 +1,4 @@
-webENGINE: A High-Performance MVC/S WebEngine / 'Framework' for Web Applications
+webENGINE: A High-Performance MVC/S Web Server / Web Engine / 'Framework' for Web Applications
 ------------
 Features
 + Convention Over Configuration
